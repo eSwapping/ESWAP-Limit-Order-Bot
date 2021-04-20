@@ -5,7 +5,7 @@
     "USEMANY": "true",
     "USESTOPLOSS": "false",
     "MAXGAS": "30",
-    "SLIPPAGE": "1",
+    "SLIPPAGE": "1.0",
     "GASBOOST": "1",
     "GASLIMIT": "360000",
     "RETRYONFAIL": "1",

@@ -1,0 +1,44 @@
+2021-04-20 04:49:46.198727descriptor 'lower' for 'str' objects doesn't apply to a 'bool' object
+Traceback (most recent call last):
+  File "<frozen eSwapping>", line 687, in start_bot
+TypeError: descriptor 'lower' for 'str' objects doesn't apply to a 'bool' object
+2021-04-20 04:50:00.071885descriptor 'lower' for 'str' objects doesn't apply to a 'bool' object
+Traceback (most recent call last):
+  File "<frozen eSwapping>", line 687, in start_bot
+TypeError: descriptor 'lower' for 'str' objects doesn't apply to a 'bool' object
+2021-04-20 04:50:44.647361 Error in one of your JSON files. Please Come in Discord for Help!
+2021-04-20 04:50:44.647361Expecting value: line 11 column 16 (char 235)
+Traceback (most recent call last):
+  File "<frozen eSwapping>", line 685, in start_bot
+  File "json\__init__.py", line 293, in load
+  File "json\__init__.py", line 357, in loads
+  File "json\decoder.py", line 337, in decode
+  File "json\decoder.py", line 355, in raw_decode
+json.decoder.JSONDecodeError: Expecting value: line 11 column 16 (char 235)
+2021-04-20 04:50:56.305714 Error in one of your JSON files. Please Come in Discord for Help!
+2021-04-20 04:50:56.305714Expecting value: line 11 column 16 (char 235)
+Traceback (most recent call last):
+  File "<frozen eSwapping>", line 685, in start_bot
+  File "json\__init__.py", line 293, in load
+  File "json\__init__.py", line 357, in loads
+  File "json\decoder.py", line 337, in decode
+  File "json\decoder.py", line 355, in raw_decode
+json.decoder.JSONDecodeError: Expecting value: line 11 column 16 (char 235)
+2021-04-20 04:51:13.949054 Error in one of your JSON files. Please Come in Discord for Help!
+2021-04-20 04:51:13.949054Expecting value: line 11 column 16 (char 235)
+Traceback (most recent call last):
+  File "<frozen eSwapping>", line 685, in start_bot
+  File "json\__init__.py", line 293, in load
+  File "json\__init__.py", line 357, in loads
+  File "json\decoder.py", line 337, in decode
+  File "json\decoder.py", line 355, in raw_decode
+json.decoder.JSONDecodeError: Expecting value: line 11 column 16 (char 235)
+2021-04-20 04:51:42.739143descriptor 'lower' for 'str' objects doesn't apply to a 'bool' object
+Traceback (most recent call last):
+  File "<frozen eSwapping>", line 687, in start_bot
+TypeError: descriptor 'lower' for 'str' objects doesn't apply to a 'bool' object
+2021-04-20 04:51:49.580149descriptor 'lower' for 'str' objects doesn't apply to a 'bool' object
+Traceback (most recent call last):
+  File "<frozen eSwapping>", line 687, in start_bot
+TypeError: descriptor 'lower' for 'str' objects doesn't apply to a 'bool' object
+2021-04-20 05:10:13.231340Adding New ABI'S to Assets Folder to Reduce API calls, ignore restarts  as this might take a few cycles and this is normal 

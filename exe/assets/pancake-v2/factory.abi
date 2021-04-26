@@ -17,7 +17,7 @@
             {
                 "indexed": false,
                 "internalType": "address",
-                "name": "pair",
+                "name": "self",
                 "type": "address"
             },
             {
@@ -43,7 +43,7 @@
         "outputs": [
             {
                 "internalType": "address",
-                "name": "pair",
+                "name": "self",
                 "type": "address"
             }
         ],
@@ -84,7 +84,7 @@
         "outputs": [
             {
                 "internalType": "address",
-                "name": "pair",
+                "name": "self",
                 "type": "address"
             }
         ],
@@ -140,7 +140,7 @@
         "outputs": [
             {
                 "internalType": "address",
-                "name": "pair",
+                "name": "self",
                 "type": "address"
             }
         ],

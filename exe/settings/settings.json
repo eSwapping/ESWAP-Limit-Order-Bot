@@ -10,6 +10,7 @@
         "WALLETADDRESS": "",
         "PRIVATEKEY": "",
         "PUSHOVERKEY": "",
-        "PUSHOVERTOKEN": ""
+        "PUSHOVERTOKEN": "",
+		"RPC": ""
     }
 ]

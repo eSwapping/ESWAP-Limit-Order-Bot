@@ -1,6 +1,0 @@
-requests==2.25.1
-web3==5.16.0
-python-pushover==0.4
-urllib3==1.26.4
-cloudscraper~=1.2.56
-colorama~=0.4.4

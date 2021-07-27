@@ -1,9 +1,0 @@
-[
-  {
-    "from": "THIS IS A TEST TX",
-    "value": "12323123123",
-    "gasPrice": "123123123123",
-    "gas": "250000",
-    "nonce": "70"
-  }
-]
